@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EL1-DAM</string>
+
+    <string name="var_ma">Maravillas del mundo antiguo</string>
+    <string name="var_mm">Maravillas del mundo moderno</string>
+    <string name="var_mn">Maravillas de la naturaleza</string>
+    <string name="var_seleccione">Seleccione</string>
+
+    <string-array name="var_tipos">
+        <item>añadir elementos...</item>
+    </string-array>
+
+</resources>
